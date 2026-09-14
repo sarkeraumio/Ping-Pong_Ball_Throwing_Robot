@@ -23,8 +23,6 @@ A DIY remote-controlled table tennis (ping pong) ball throwing machine built wit
 
 ### Main Components
 
-![System Architecture](photos/System_Architectire.jpeg)
-
 | Component                    | Description                              |
 |-----------------------------|------------------------------------------|
 | ESP32 Breakout Board        | Main controller                          |
@@ -48,14 +46,15 @@ A DIY remote-controlled table tennis (ping pong) ball throwing machine built wit
 
 ## Wiring Summary
 
+![System Architecture](photos/System_Architectire.jpeg)
+
 - Brushless motor → CAN H / CAN L + 24V
 - DC Motor 1 & 2 → Dual motor driver board
 - Servo → ESP32 GPIO (PWM)
 - Emergency Stop → Between battery and power distribution board
 - ESP32 powered by 5V Micro USB
 
-> Full wiring diagram is available in the repository.
-
+> Full wiring diagram is shown above
 ---
 
 ## Getting Started
