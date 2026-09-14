@@ -4,8 +4,9 @@ A DIY remote-controlled table tennis (ping pong) ball throwing machine built wit
 
 ![System Architecture](photos/System_Architectire.jpeg)
 
-> Demo video: [YouTube Short](https://www.youtube.com/shorts/ksmupxvY3Tg)
+> Demo video of working Ping Pong Ball Throwing Machine: [Overview of the robot](https://www.youtube.com/shorts/ksmupxvY3Tg)
 
+> Demo video of me controlling the robot from ps4 controller: [Me(with a ps4 controller in hand) controlling the robot] (https://youtu.be/72vAwpTB5NQ ) 
 ---
 
 ## Features
