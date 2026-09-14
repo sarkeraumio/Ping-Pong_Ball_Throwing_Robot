@@ -2,7 +2,7 @@
 
 A DIY remote-controlled table tennis (ping pong) ball throwing machine built with ESP32.
 
-![System Architecture](photos/System_Architecire.jpeg)
+![System Architecture](photos/System_Architectire.jpeg)
 
 > Demo video: [YouTube Short](https://www.youtube.com/shorts/ksmupxvY3Tg)
 
