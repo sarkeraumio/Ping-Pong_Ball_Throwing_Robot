@@ -2,7 +2,6 @@
 
 A DIY remote-controlled table tennis (ping pong) ball throwing machine built with ESP32.
 
-![System Architecture](photos/System_Architectire.jpeg)
 
 > Demo video of working Ping Pong Ball Throwing Machine: [Overview of the robot](https://www.youtube.com/shorts/ksmupxvY3Tg)
 
@@ -23,6 +22,8 @@ A DIY remote-controlled table tennis (ping pong) ball throwing machine built wit
 ## Hardware Overview
 
 ### Main Components
+
+![System Architecture](photos/System_Architectire.jpeg)
 
 | Component                    | Description                              |
 |-----------------------------|------------------------------------------|
