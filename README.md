@@ -57,14 +57,3 @@ A DIY remote-controlled table tennis (ping pong) ball throwing machine built wit
 > Full wiring diagram is shown above
 ---
 
-## Getting Started
-
-### Prerequisites
-- ESP32 development board
-- Arduino IDE or PlatformIO
-- Required libraries (to be added)
-
-### Installation
-```bash
-git clone https://github.com/yourusername/ping-pong-ball-thrower.git
-cd ping-pong-ball-thrower
